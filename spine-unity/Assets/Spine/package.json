@@ -10,7 +10,6 @@
 		"url": "http://esotericsoftware.com/"
 	},
 	"dependencies": {
-		"com.esotericsoftware.spine.spine-csharp": "3.8.0"
 	},
 	"repository": {
 		"type": "git",
